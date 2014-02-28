@@ -1,0 +1,7 @@
+    name: Cencraft Chat
+    main: net.cencraft.main.Main
+    version: 0.0.1
+    description: Cencraft's custom chat. Ver 0.0.1 testing hover feature.
+    commands:
+      chat:
+        description: The base command.
